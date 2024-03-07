@@ -1,0 +1,11 @@
+# Compiled files
+*.class
+*.jar
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Build output
+target/
+out/
